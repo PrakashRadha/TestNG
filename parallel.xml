@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	    <listeners>
+		<listener class-name="com.testng.ReportsDemo"></listener>
+	</listeners>
+    <!-- Define parallel test execution -->
+    <test  name="Test" parallel="classes" thread-count="5">
+        <parameter name="username" value="Dony"></parameter>
+        <parameter name="password" value="doiny123"></parameter>
+        <parameter name="username" value="Kalpana"></parameter>
+        <parameter name="password" value="abcdef"></parameter>
+        <parameter name="username" value="Pooja"></parameter>
+        <parameter name="password" value="abcdef"></parameter>
+        <classes>
+			<class name="com.testng.LoginTest"></class>
+			
+        </classes>
+    </test>
+</suite> <!-- Suite -->

@@ -1,0 +1,400 @@
+2025-07-21 10:40:18 [main] INFO  Utilities.BaseClass - It is info message
+2025-07-21 10:40:18 [main] ERROR Utilities.BaseClass - Itis error message
+2025-07-21 10:40:18 [main] FATAL Utilities.BaseClass - It is fatal message
+2025-07-21 10:40:18 [main] WARN  Utilities.BaseClass - It is warning message
+2025-07-21 10:50:01 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-21 10:50:01 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-21 10:50:02 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-21 10:51:45 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-21 10:51:45 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-21 10:51:45 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-21 10:51:46 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:26:30 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:26:30 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:26:30 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:26:32 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:28:22 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:28:23 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:28:23 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:28:24 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:35:42 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:35:42 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:35:43 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:35:43 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:35:49 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:36:33 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:36:33 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:36:33 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:36:34 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:36:41 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:39:05 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:39:05 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:39:05 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:39:05 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:39:12 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:41:40 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:41:40 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:41:41 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:41:42 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:41:42 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:41:42 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:41:42 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:41:42 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:41:44 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:41:44 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:41:44 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:41:44 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:42:53 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:42:53 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:42:54 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:42:54 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:42:57 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:42:57 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:42:57 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:42:57 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:43:01 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:43:56 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:43:56 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:43:56 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:43:57 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:44:01 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:44:01 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:44:01 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:44:02 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-26 10:44:04 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-26 10:44:04 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-26 10:44:04 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-26 10:44:07 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-29 10:49:04 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-29 10:49:05 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-29 10:49:05 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-29 10:49:05 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-29 10:54:36 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-29 10:54:36 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-29 10:54:36 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-29 10:54:38 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-07-29 10:54:41 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-07-29 10:54:41 [main] INFO  Utilities.BaseClass - User entered the username
+2025-07-29 10:54:41 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-07-29 10:54:42 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:18:11 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:19:27 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:20:26 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:20:27 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:20:27 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:20:27 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:23:35 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:23:35 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:23:35 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:23:36 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:28:02 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:28:02 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:28:02 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:28:02 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:28:02 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:28:03 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:28:03 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:28:03 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:30:07 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:30:07 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:30:07 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:30:07 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:30:29 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:30:29 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:30:29 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:30:29 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:30:31 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:30:31 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:30:31 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:30:31 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:31:34 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:31:34 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:31:34 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:31:34 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:31:36 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:31:56 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:31:56 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:31:56 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:31:57 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:31:59 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:33:03 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:33:03 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:33:03 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:33:03 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:33:08 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:40:30 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:40:30 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:40:30 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:40:30 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:45:28 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:45:28 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:45:28 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:45:28 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:46:44 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:46:44 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:46:44 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:46:45 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:46:49 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:48:03 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:48:04 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:48:04 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:48:04 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:48:09 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:51:12 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:51:12 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:51:12 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:51:12 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:52:45 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:52:45 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:52:45 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:52:46 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:58:18 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 10:58:18 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 10:58:18 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 10:58:20 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 10:58:25 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 11:01:29 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-12 11:01:29 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-12 11:01:30 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-12 11:01:30 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-12 11:01:35 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:10:00 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:10:00 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:10:00 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:10:00 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:10:05 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:14:06 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:14:07 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:14:07 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:14:08 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:14:13 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:16:50 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:16:50 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:16:50 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:16:51 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:16:56 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:18:30 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:18:32 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:26:54 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:26:54 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:26:54 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:26:55 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:27:00 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:27:03 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:29:23 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:29:23 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:29:23 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:29:23 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:29:28 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:29:30 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:31:25 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:31:25 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:31:25 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:31:25 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:31:30 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:31:38 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:36:44 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:36:44 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:36:44 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:36:45 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:36:50 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:37:03 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:38:00 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:38:00 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:38:00 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:38:01 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:38:03 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:38:13 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:38:57 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:38:57 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:38:57 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:38:57 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:38:59 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:39:10 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:46:35 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:46:35 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:46:35 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:46:36 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:46:38 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:46:48 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:47:56 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:47:57 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:47:57 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:47:58 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:48:00 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:48:10 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:49:31 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:49:31 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:49:31 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:49:31 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:50:48 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:50:48 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:50:49 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:50:49 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:50:54 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:50:56 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:52:06 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:52:06 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:52:07 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:52:07 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:52:12 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:52:14 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:56:17 [TestNG-test=Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:56:17 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 10:56:17 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 10:56:18 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 10:56:22 [TestNG-test=Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 10:56:25 [TestNG-test=Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 21:55:49 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 21:55:49 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 21:55:49 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 21:55:50 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 21:55:58 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 21:56:02 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 22:30:02 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 22:30:02 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 22:30:02 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 22:30:03 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 22:30:05 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 22:30:15 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 22:31:39 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 22:31:39 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 22:31:39 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 22:31:39 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 22:31:41 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 22:31:52 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 22:33:19 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 22:33:19 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-13 22:33:19 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-13 22:33:20 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-13 22:33:22 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-13 22:33:32 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:16:16 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:16:16 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:16:16 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:18:10 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:18:10 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:18:10 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:18:11 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:18:11 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:18:21 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:19:41 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:19:41 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:19:41 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:19:41 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:19:42 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:19:42 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:19:42 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:19:42 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:19:43 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:19:43 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:19:43 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:19:43 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:24:21 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:24:21 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:24:21 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:24:22 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:24:23 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:24:23 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:24:23 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:24:23 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:24:23 [main] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:24:23 [main] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:24:23 [main] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:24:24 [main] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:36:56 [TestNG-test=Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:36:56 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:36:56 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:36:58 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:36:58 [TestNG-test=Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:36:58 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:36:58 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:36:59 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:36:59 [TestNG-test=Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:36:59 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:37:00 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:37:00 [TestNG-test=Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:43:21 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:43:21 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:43:27 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:43:27 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:43:28 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:43:28 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:43:29 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:43:29 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:43:29 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:43:29 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:43:30 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:43:30 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:43:30 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:43:32 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:45:59 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:45:59 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:46:07 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:46:07 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:46:07 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:46:08 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:46:08 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:46:09 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:46:09 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:46:09 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:46:10 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:46:10 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:46:10 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:46:10 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:46:59 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:46:59 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:47:07 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:47:07 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:47:08 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:47:08 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:47:09 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:47:09 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:47:09 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:47:09 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:47:10 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:47:11 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:47:11 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:47:11 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:48:27 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:48:27 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:48:34 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:48:34 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:48:34 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:48:35 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:48:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:48:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:48:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:48:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:48:37 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:48:37 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:48:37 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:48:37 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:49:26 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:49:26 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:49:34 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:49:34 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:49:34 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:49:35 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:49:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:49:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:49:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:49:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:49:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:49:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:49:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:49:36 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:53:06 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:53:06 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : com.testng.ReportsDemo
+2025-08-14 10:53:13 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:53:13 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:53:13 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:53:15 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:53:15 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:53:15 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:53:15 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:53:16 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn
+2025-08-14 10:53:16 [TestNG-test-Test-1] INFO  Utilities.BaseClass - In enterUserName
+2025-08-14 10:53:16 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the username
+2025-08-14 10:53:16 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User entered the pasword
+2025-08-14 10:53:16 [TestNG-test-Test-1] INFO  Utilities.BaseClass - User clicked On login btn

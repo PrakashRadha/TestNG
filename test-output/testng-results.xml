@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-14T10:36:48 IST" name="Suite" finished-at="2025-08-14T10:37:01 IST" duration-ms="12964">
+    <groups>
+    </groups>
+    <test started-at="2025-08-14T10:36:48 IST" name="Test" finished-at="2025-08-14T10:37:01 IST" duration-ms="12964">
+      <class name="com.testng.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testng.LoginTest@16293aa2]" started-at="2025-08-14T10:36:48 IST" name="setup" finished-at="2025-08-14T10:36:50 IST" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:com.testng.LoginTest@16293aa2]" started-at="2025-08-14T10:36:50 IST" name="login" data-provider="dp" finished-at="2025-08-14T10:36:58 IST" duration-ms="7852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[maruthatcf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mptcf@2309]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:com.testng.LoginTest@16293aa2]" started-at="2025-08-14T10:36:58 IST" name="login" data-provider="dp" finished-at="2025-08-14T10:36:59 IST" duration-ms="969" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mukeshe912]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mukeshe912]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:com.testng.LoginTest@16293aa2]" started-at="2025-08-14T10:36:59 IST" name="login" data-provider="dp" finished-at="2025-08-14T10:37:00 IST" duration-ms="1533" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin130]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testng.LoginTest@16293aa2]" started-at="2025-08-14T10:37:00 IST" name="teardown" finished-at="2025-08-14T10:37:01 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testng.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

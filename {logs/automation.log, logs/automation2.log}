@@ -1,0 +1,4 @@
+2025-07-21 10:38:53 [main] INFO  Utilities.BaseClass - It is info message
+2025-07-21 10:38:53 [main] ERROR Utilities.BaseClass - Itis error message
+2025-07-21 10:38:53 [main] FATAL Utilities.BaseClass - It is fatal message
+2025-07-21 10:38:53 [main] WARN  Utilities.BaseClass - It is warning message

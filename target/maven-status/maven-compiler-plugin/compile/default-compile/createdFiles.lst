@@ -1,0 +1,5 @@
+Utilities\BaseClass.class
+PageActions\LoginPageActionsWithProperies.class
+PageObjects\BasePage.class
+PageActions\LoginPageActions.class
+PageObjects\LoginPage.class
