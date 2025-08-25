@@ -52,15 +52,6 @@ public class DataDrivenDemo {
 
 	}
 
-	public static void main(String[] args) throws Throwable {
-		
-//		
-		DataDrivenDemo dd = new DataDrivenDemo();
-		for(int i =0; i<=1; i++) {
-			for(int j =0; j<=2; j++) {
-				dd.readData(0, i, j);
-			}
-		}
 		
 		
 		
